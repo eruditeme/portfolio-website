@@ -1,0 +1,9 @@
+.about {
+	height: 100vh;
+}
+
+.horizontal-line {
+	border: none;
+	border-top: 2px solid #f02c0f; /* Adjust color and thickness as needed */
+	width: 100%; /* Adjust width as needed */
+  }
