@@ -15,8 +15,7 @@ const Header = () => {
 				</div>
 			</div>
 			<div className='col-span-1 justify-center flex items-center'>
-				<img src={ama} alt="Stairway to Heaven" className='h-4/6 w-4/6 border border-solid border-pale-red border-4'></img>
-				<div className='z-10 absolute right-20 top-2/3 text-8xl flex flex-col font-extrabold text-[#f02c0f]'>
+				<div className='z-10 absolute right-20 top-2/3 text-8xl flex flex-col font-extrabold anton-regular'>
 					<span>蓝</span>
 					<span>伊</span>
 					<span>心</span>
